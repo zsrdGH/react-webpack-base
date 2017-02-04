@@ -1,0 +1,26 @@
+{
+  "name": "sdfsf",
+  "version": "1.0.0",
+  "description": "sfsfs",
+  "main": "sdfs",
+  "scripts": {
+    "test": "sdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sdf"
+  },
+  "keywords": [
+    "sdf"
+  ],
+  "author": "sdf",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
